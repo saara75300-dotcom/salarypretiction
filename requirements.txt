@@ -1,4 +1,6 @@
 %%writefile requirements.txt
 pandas
-scikit-learn
+numby
+stearmlit
 flask
+scikit-learn
