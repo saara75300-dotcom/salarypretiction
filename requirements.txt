@@ -1,0 +1,4 @@
+%%writefile requirements.txt
+pandas
+scikit-learn
+flask
